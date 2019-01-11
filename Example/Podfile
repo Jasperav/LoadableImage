@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LoadableImage_Tests' do
+  pod 'LoadableImage', :path => '../'
+  
+  
+end

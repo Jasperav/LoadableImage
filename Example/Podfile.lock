@@ -1,0 +1,16 @@
+PODS:
+  - LoadableImage (0.1.0)
+
+DEPENDENCIES:
+  - LoadableImage (from `../`)
+
+EXTERNAL SOURCES:
+  LoadableImage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LoadableImage: ce37c2cf26ccf48cdaebdf59845b5461481ae822
+
+PODFILE CHECKSUM: ddbe9b3955af8844397b4756d2fa6742b47b44c6
+
+COCOAPODS: 1.6.0.beta.1

@@ -1,0 +1,6 @@
+framework module LoadableImage {
+  umbrella header "LoadableImage-umbrella.h"
+
+  export *
+  module * { export * }
+}
